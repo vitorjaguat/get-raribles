@@ -1,0 +1,15 @@
+* {
+  font-family: Optima, Roboto, sans-serif;
+}
+
+.container {
+  display: flex;
+}
+
+#btn {
+  display: block;
+}
+
+.result {
+  margin: 5rem 1rem 1rem 2rem;
+}
