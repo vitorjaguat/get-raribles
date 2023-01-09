@@ -8,6 +8,7 @@
 
 #btn {
   display: block;
+  margin: 0.5rem 0 1rem auto;
 }
 
 .result {
